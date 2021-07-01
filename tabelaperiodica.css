@@ -1,0 +1,28 @@
+.titulo { 
+    font-size: 3em;
+}
+
+td { 
+    text-align: center;
+    border-radius: 5px;
+    width: 90px;
+    height: 90px;
+}
+.naometal {background:#7fd0ff}
+ul {list-style: none;
+margin: 0;
+padding: 0}
+.sigla {
+    font-size: 2em;
+}
+.numero-atomico {text-align: left; margin: 3px}
+
+.gasesnobres {background: #1af7ff}
+
+.metal {background: #b866ee}
+
+.semimetal {background: #fd98da }
+
+.lantanoides{background:#ff11df}
+
+.actinoides{background: #ff0f57e1}
